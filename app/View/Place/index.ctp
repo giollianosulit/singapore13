@@ -1,6 +1,7 @@
 <!-- File: /app/View/Posts/index.ctp -->
 
 <h1>Blog posts</h1>
+
 <?php echo $this->Html->link(
     'Add Place',
     array('controller' => 'place', 'action' => 'add')
@@ -11,10 +12,12 @@
             <th>Title</th>
             <th>Created</th>
             <th>Action</th>
+            <th>Day</th>
         </tr>
 
         <!-- Here is where we loop through our $posts array, printing out post info -->
         <?php foreach ($place as $p1): ?>
+        <?php print_r($p1); ?>
         <tr>
 
             <td><?php echo $p1['Place']['id']; ?></td>
@@ -30,6 +33,9 @@
                     array('confirm' => 'Are you sure?'));
                     ?>
                     <?php echo $this->Html->link('Edit', array('action' => 'edit', $p1['Place']['id'])); ?>
+                </td>
+                <td>
+                    <?php echo $p1['Dates']['day_num']; ?>
                 </td>
             </tr>
         <?php endforeach; ?>
