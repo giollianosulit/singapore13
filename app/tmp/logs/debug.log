@@ -2946,3 +2946,971 @@ Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
 Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
 [main] - APP/webroot/index.php, line 110
 
+2013-10-13 18:44:16 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 18]
+Trace:
+include - APP/View/Place/index.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:16 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 19]
+Trace:
+include - APP/View/Place/index.ctp, line 19
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:16 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 18]
+Trace:
+include - APP/View/Place/index.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:16 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 19]
+Trace:
+include - APP/View/Place/index.ctp, line 19
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:17 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 18]
+Trace:
+include - APP/View/Place/index.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:17 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 19]
+Trace:
+include - APP/View/Place/index.ctp, line 19
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:17 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 18]
+Trace:
+include - APP/View/Place/index.ctp, line 18
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:17 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 19]
+Trace:
+include - APP/View/Place/index.ctp, line 19
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:53 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:53 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 21]
+Trace:
+include - APP/View/Place/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:53 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:53 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 21]
+Trace:
+include - APP/View/Place/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:54 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:54 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 21]
+Trace:
+include - APP/View/Place/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:54 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:44:54 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 21]
+Trace:
+include - APP/View/Place/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:45:05 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:45:05 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 21]
+Trace:
+include - APP/View/Place/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:45:05 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:45:05 Notice: Notice (8): Undefined variable: p1 in [/var/www/singapore13/app/View/Place/index.ctp, line 21]
+Trace:
+include - APP/View/Place/index.ctp, line 21
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:51:59 Notice: Notice (8): Undefined variable: value2 in [/var/www/singapore13/app/View/Place/index.ctp, line 19]
+Trace:
+include - APP/View/Place/index.ctp, line 19
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:51:59 Notice: Notice (8): Undefined variable: value2 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:51:59 Notice: Notice (8): Undefined variable: value2 in [/var/www/singapore13/app/View/Place/index.ctp, line 19]
+Trace:
+include - APP/View/Place/index.ctp, line 19
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:51:59 Notice: Notice (8): Undefined variable: value2 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:51:59 Notice: Notice (8): Undefined variable: value2 in [/var/www/singapore13/app/View/Place/index.ctp, line 19]
+Trace:
+include - APP/View/Place/index.ctp, line 19
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:51:59 Notice: Notice (8): Undefined variable: value2 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:51:59 Notice: Notice (8): Undefined variable: value2 in [/var/www/singapore13/app/View/Place/index.ctp, line 19]
+Trace:
+include - APP/View/Place/index.ctp, line 19
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:51:59 Notice: Notice (8): Undefined variable: value2 in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 19:36:42 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 19:37:14 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 19:37:41 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 19:39:53 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 19:43:23 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:05:00 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:15:01 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:16:04 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:20:16 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:21:29 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:22:06 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:22:07 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:22:08 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:22:28 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:22:28 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:22:29 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:22:50 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:22:51 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 8]
+Trace:
+include - APP/View/Place/add.ctp, line 8
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:23:12 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:23:13 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:23:28 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:24:19 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:24:39 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:24:56 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:24:57 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:25:12 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 9]
+Trace:
+include - APP/View/Place/add.ctp, line 9
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:25:23 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:26:20 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:26:33 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:26:42 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:26:56 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:27:57 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:28:53 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:19 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:19 Notice: Notice (8): Undefined variable: html in [/var/www/singapore13/app/View/Place/add.ctp, line 27]
+Trace:
+include - APP/View/Place/add.ctp, line 27
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:40 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:40 Notice: Notice (8): Undefined variable: html in [/var/www/singapore13/app/View/Place/add.ctp, line 27]
+Trace:
+include - APP/View/Place/add.ctp, line 27
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:41 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:41 Notice: Notice (8): Undefined variable: html in [/var/www/singapore13/app/View/Place/add.ctp, line 27]
+Trace:
+include - APP/View/Place/add.ctp, line 27
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:46 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:46 Notice: Notice (8): Undefined variable: html in [/var/www/singapore13/app/View/Place/add.ctp, line 27]
+Trace:
+include - APP/View/Place/add.ctp, line 27
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:47 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:48 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:53 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:53 Notice: Notice (8): Undefined variable: html in [/var/www/singapore13/app/View/Place/add.ctp, line 28]
+Trace:
+include - APP/View/Place/add.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:58 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:58 Notice: Notice (8): Undefined variable: html in [/var/www/singapore13/app/View/Place/add.ctp, line 28]
+Trace:
+include - APP/View/Place/add.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:59 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:30:59 Notice: Notice (8): Undefined variable: html in [/var/www/singapore13/app/View/Place/add.ctp, line 28]
+Trace:
+include - APP/View/Place/add.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:31:00 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:31:00 Notice: Notice (8): Undefined variable: html in [/var/www/singapore13/app/View/Place/add.ctp, line 28]
+Trace:
+include - APP/View/Place/add.ctp, line 28
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:31:23 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:31:50 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:31:52 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:32:05 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:32:09 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 10]
+Trace:
+include - APP/View/Place/add.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:33:51 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 11]
+Trace:
+include - APP/View/Place/add.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:34:02 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 11]
+Trace:
+include - APP/View/Place/add.ctp, line 11
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:34:21 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 12]
+Trace:
+include - APP/View/Place/add.ctp, line 12
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 20:34:22 Notice: Notice (8): Undefined variable: r in [/var/www/singapore13/app/View/Place/add.ctp, line 12]
+Trace:
+include - APP/View/Place/add.ctp, line 12
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+

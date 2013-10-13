@@ -23,13 +23,14 @@ class PlaceController extends AppController {
 		$this->set('place', $place);
 	}
 	public function add() {
+		$date = $this->Place->find('list');
 		if ($this->request->is('post')) {
 			$this->Place->create();
 			if ($this->Place->save($this->request->data)) {
-				$this->Session->setFlash(__('Your post has been saved.'));
+				$this->Session->setFlash(__('Your item has been added.'));
 				return $this->redirect(array('action' => 'index'));
 			}
-			$this->Session->setFlash(__('Unable to add your post.'));
+			$this->Session->setFlash(__('Unable to add item.'));
 		}
 	}
 	public function edit($id = null) {

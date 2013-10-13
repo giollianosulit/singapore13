@@ -1,3 +1,26 @@
 #header{margin-top:20px;}
 #page-container{margin-bottom:20px;}
 #url-rewriting-warning {display: none;}
+.right {
+	float: right;
+}
+.table-body > tr > td:nth-child(2) >ul {
+	padding-left:0;
+}
+.table-body > tr > td:nth-child(2) >ul >li{
+	position: relative;
+	display: block;
+	padding:5px;
+}
+.container .well{
+	display:none;
+}
+.add-place label {
+	display: none;
+}
+.input.textarea.required {
+	margin-bottom: 20px;
+}
+.add-place .submit {
+	margin-top: 20px;
+}

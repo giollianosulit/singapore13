@@ -16,7 +16,7 @@
  * @license       MIT License (http://www.opensource.org/licenses/mit-license.php)
  */
 
-$cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework');
+$cakeDescription = __d('cake_dev', 'Singapore 2013');
 ?>
 <?php echo $this->Html->docType('html5'); ?> 
 <html>
@@ -48,11 +48,7 @@ $cakeDescription = __d('cake_dev', 'CakePHP: the rapid development php framework
 	<body>
 
 		<div id="main-container">
-		
-			<div id="header" class="container">
-				<?php echo $this->element('menu/top_menu'); ?>
-			</div><!-- /#header .container -->
-			
+				
 			<div id="content" class="container">
 				<?php echo $this->Session->flash(); ?>
 				<?php echo $this->fetch('content'); ?>
