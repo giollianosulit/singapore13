@@ -1058,3 +1058,17 @@ Stack Trace:
 #10 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
 #11 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #12 {main}
+2013-10-13 13:27:13 Error: [PDOException] SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'dates_iddates' cannot be null
+Request URL: /singapore13/place/add
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('INSERT INTO `sg...', Array)
+#2 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(1004): DboSource->execute('INSERT INTO `sg...')
+#3 /var/www/singapore13/lib/Cake/Model/Model.php(1827): DboSource->create(Object(Place), Array, Array)
+#4 /var/www/singapore13/app/Controller/PlaceController.php(23): Model->save(Array)
+#5 [internal function]: PlaceController->add()
+#6 /var/www/singapore13/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PlaceController), Array)
+#7 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#8 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
+#9 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#10 {main}
