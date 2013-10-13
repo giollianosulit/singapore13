@@ -6,18 +6,22 @@
     'Add Place',
     array('controller' => 'place', 'action' => 'add')
     ); ?>
+    
+    <?php for($j = 1; $j<=13; $j++){ 
+        $var = 'day'.$j;
+        print_r($$var);
+    }?>
+
     <table class="table">
         <tr>
-            <th>Id</th>
+            <th>Day</th>
             <th>Title</th>
             <th>Created</th>
             <th>Action</th>
             <th>Day</th>
         </tr>
-
         <!-- Here is where we loop through our $posts array, printing out post info -->
         <?php foreach ($place as $p1): ?>
-        <?php print_r($p1); ?>
         <tr>
 
             <td><?php echo $p1['Place']['id']; ?></td>

@@ -1072,3 +1072,605 @@ Stack Trace:
 #8 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
 #9 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #10 {main}
+2013-10-13 18:16:02 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/singapore13/app/Controller/PlaceController.php, line 7]
+2013-10-13 18:16:02 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 7)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 7, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 7, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:17:03 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:17:04 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/singapore13/app/View/Place/index.ctp, line 20]
+Trace:
+include - APP/View/Place/index.ctp, line 20
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:18:53 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/singapore13/app/Controller/PlaceController.php, line 8]
+2013-10-13 18:18:53 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 8, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 8, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:21:20 Error: Fatal Error (64): Can't use method return value in write context in [/var/www/singapore13/app/Controller/PlaceController.php, line 10]
+2013-10-13 18:21:20 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(64, 'Can't use metho...', '/var/www/singap...', 10)
+#1 [internal function]: ErrorHandler::handleError(64, 'Can't use metho...', '/var/www/singap...', 10, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 64, 'Can't use metho...', '/var/www/singap...', 10, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:21:25 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/singapore13/app/Controller/PlaceController.php, line 10]
+2013-10-13 18:21:25 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 10, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 10, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:21:26 Error: Fatal Error (4): syntax error, unexpected ';' in [/var/www/singapore13/app/Controller/PlaceController.php, line 10]
+2013-10-13 18:21:26 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 10, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 10, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:22:34 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Places.dates_iddates' in 'where clause'
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Place`....', Array)
+#2 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Place`....', Array, Array)
+#3 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `Place`....', false)
+#4 /var/www/singapore13/lib/Cake/Model/Model.php(2880): DboSource->read(Object(Place), Array)
+#5 /var/www/singapore13/lib/Cake/Model/Model.php(2852): Model->_readDataSource('all', Array)
+#6 /var/www/singapore13/app/Controller/PlaceController.php(10): Model->find('all', Array)
+#7 [internal function]: PlaceController->index()
+#8 /var/www/singapore13/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PlaceController), Array)
+#9 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-13 18:22:35 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Places.dates_iddates' in 'where clause'
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Place`....', Array)
+#2 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Place`....', Array, Array)
+#3 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `Place`....', false)
+#4 /var/www/singapore13/lib/Cake/Model/Model.php(2880): DboSource->read(Object(Place), Array)
+#5 /var/www/singapore13/lib/Cake/Model/Model.php(2852): Model->_readDataSource('all', Array)
+#6 /var/www/singapore13/app/Controller/PlaceController.php(10): Model->find('all', Array)
+#7 [internal function]: PlaceController->index()
+#8 /var/www/singapore13/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PlaceController), Array)
+#9 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-13 18:22:39 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'places.dates_iddates' in 'where clause'
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Place`....', Array)
+#2 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Place`....', Array, Array)
+#3 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `Place`....', false)
+#4 /var/www/singapore13/lib/Cake/Model/Model.php(2880): DboSource->read(Object(Place), Array)
+#5 /var/www/singapore13/lib/Cake/Model/Model.php(2852): Model->_readDataSource('all', Array)
+#6 /var/www/singapore13/app/Controller/PlaceController.php(10): Model->find('all', Array)
+#7 [internal function]: PlaceController->index()
+#8 /var/www/singapore13/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PlaceController), Array)
+#9 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-13 18:22:40 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'places.dates_iddates' in 'where clause'
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Place`....', Array)
+#2 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Place`....', Array, Array)
+#3 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `Place`....', false)
+#4 /var/www/singapore13/lib/Cake/Model/Model.php(2880): DboSource->read(Object(Place), Array)
+#5 /var/www/singapore13/lib/Cake/Model/Model.php(2852): Model->_readDataSource('all', Array)
+#6 /var/www/singapore13/app/Controller/PlaceController.php(10): Model->find('all', Array)
+#7 [internal function]: PlaceController->index()
+#8 /var/www/singapore13/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PlaceController), Array)
+#9 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-13 18:22:40 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'places.dates_iddates' in 'where clause'
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Place`....', Array)
+#2 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Place`....', Array, Array)
+#3 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `Place`....', false)
+#4 /var/www/singapore13/lib/Cake/Model/Model.php(2880): DboSource->read(Object(Place), Array)
+#5 /var/www/singapore13/lib/Cake/Model/Model.php(2852): Model->_readDataSource('all', Array)
+#6 /var/www/singapore13/app/Controller/PlaceController.php(10): Model->find('all', Array)
+#7 [internal function]: PlaceController->index()
+#8 /var/www/singapore13/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PlaceController), Array)
+#9 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-13 18:22:47 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'places.dates_iddates' in 'where clause'
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Place`....', Array)
+#2 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(666): DboSource->execute('SELECT `Place`....', Array, Array)
+#3 /var/www/singapore13/lib/Cake/Model/Datasource/DboSource.php(1077): DboSource->fetchAll('SELECT `Place`....', false)
+#4 /var/www/singapore13/lib/Cake/Model/Model.php(2880): DboSource->read(Object(Place), Array)
+#5 /var/www/singapore13/lib/Cake/Model/Model.php(2852): Model->_readDataSource('all', Array)
+#6 /var/www/singapore13/app/Controller/PlaceController.php(10): Model->find('all', Array)
+#7 [internal function]: PlaceController->index()
+#8 /var/www/singapore13/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PlaceController), Array)
+#9 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#10 /var/www/singapore13/lib/Cake/Routing/Dispatcher.php(162): Dispatcher->_invoke(Object(PlaceController), Object(CakeRequest), Object(CakeResponse))
+#11 /var/www/singapore13/app/webroot/index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2013-10-13 18:33:28 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:28 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:29 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:29 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:40 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:40 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:41 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:41 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:42 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:42 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:50 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:50 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:51 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:51 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:51 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:51 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:57 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:57 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:33:58 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:33:58 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:34:09 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:34:09 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:34:10 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:34:10 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:34:19 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 17]
+2013-10-13 18:34:19 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 17)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 17, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:34:20 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 16]
+2013-10-13 18:34:20 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 16, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 16, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:34:20 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 16]
+2013-10-13 18:34:20 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 16)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 16, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 16, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:34:26 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 15]
+2013-10-13 18:34:26 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 15, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 15, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:34:27 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 15]
+2013-10-13 18:34:27 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 15)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 15, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 15, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:34:46 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/singapore13/app/View/Place/index.ctp, line 10]
+Trace:
+include - APP/View/Place/index.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:34:47 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/singapore13/app/View/Place/index.ctp, line 10]
+Trace:
+include - APP/View/Place/index.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:34:52 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/singapore13/app/View/Place/index.ctp, line 10]
+Trace:
+include - APP/View/Place/index.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:34:59 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/singapore13/app/View/Place/index.ctp, line 10]
+Trace:
+include - APP/View/Place/index.ctp, line 10
+View::_evaluate() - CORE/Cake/View/View.php, line 931
+View::_render() - CORE/Cake/View/View.php, line 893
+View::render() - CORE/Cake/View/View.php, line 462
+Controller::render() - CORE/Cake/Controller/Controller.php, line 952
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 194
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 162
+[main] - APP/webroot/index.php, line 110
+
+2013-10-13 18:36:06 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 14]
+2013-10-13 18:36:06 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:07 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 14]
+2013-10-13 18:36:07 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:20 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 14]
+2013-10-13 18:36:20 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:21 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 14]
+2013-10-13 18:36:21 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:26 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:26 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:27 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:27 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:27 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:27 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:27 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:27 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:28 Error: Fatal Error (4): syntax error, unexpected '<' in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:28 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:37 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:37 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:38 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:38 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:39 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:39 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:43 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:43 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:43 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 13]
+2013-10-13 18:36:43 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 13, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:36:59 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 12]
+2013-10-13 18:36:59 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:37:00 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 12]
+2013-10-13 18:37:00 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:37:00 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 12]
+2013-10-13 18:37:00 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:37:01 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 12]
+2013-10-13 18:37:01 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:37:08 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 12]
+2013-10-13 18:37:08 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:37:16 Error: Fatal Error (4): syntax error, unexpected T_ENDFOREACH in [/var/www/singapore13/app/View/Place/index.ctp, line 12]
+2013-10-13 18:37:16 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 12)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 12, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:38:23 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/singapore13/app/View/Place/index.ctp, line 14]
+2013-10-13 18:38:23 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2013-10-13 18:38:24 Error: Fatal Error (4): syntax error, unexpected '}' in [/var/www/singapore13/app/View/Place/index.ctp, line 14]
+2013-10-13 18:38:24 Error: [InternalErrorException] Internal Server Error
+Request URL: /singapore13/
+Stack Trace:
+#0 /var/www/singapore13/lib/Cake/Error/ErrorHandler.php(205): ErrorHandler::handleFatalError(4, 'syntax error, u...', '/var/www/singap...', 14)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#2 /var/www/singapore13/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', '/var/www/singap...', 14, Array)
+#3 /var/www/singapore13/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}

@@ -5,6 +5,11 @@ class PlaceController extends AppController {
 
 	public function index() {
 		$this->set('place', $this->Place->find('all'));
+		for($i = 1; $i<=13; $i++){
+		$this->set('day'.$i.'', $this->Place->find('all', array(
+			'conditions' => array('dates_iddates' => $i)
+			)));
+	} 
 	}
 	public function view($id = null) {
 		if (!$id) {
